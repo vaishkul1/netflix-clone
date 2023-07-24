@@ -5,7 +5,7 @@ import Image from "next/image";
 const About = () => {
     return (
         <>
-            <Herosection title={"OUR STORY"}  imageUrl ={"/about1.svg"} />
+            <Herosection title={"OUR STORY"}  imageUrl ={"./about1.svg"} />
             
         
 
